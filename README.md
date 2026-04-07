@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andusch&label=Profile%20views&color=0e75b6&style=flat" alt="andusch" /> </p>
 
-- 🔭 I’m currently working on [AQUA: light-weight markdown editor](https://github.com/andusch/aqua)
+- 🔭 I’m currently working on a [distributed key-value store](https://github.com/andusch/distributed-key-value-store)
 
-- 🌱 I’m currently learning **Rust, SolidJS**
+- 🌱 I’m currently learning **Go**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
